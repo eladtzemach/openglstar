@@ -1,31 +1,4 @@
-// ==========================================================================
-// $Id: simple_shape.h,v 1.1 2014/01/18 16:43:12 jlang Exp $
-// Simple shape for interactions
-// ==========================================================================
-// (C)opyright:
-//
-//   Jochen Lang
-//   SITE, University of Ottawa
-//   800 King Edward Ave.
-//   Ottawa, On., K1N 6N5
-//   Canada.
-//   http://www.site.uottawa.ca
-//
-// Creator: jlang (Jochen Lang)
-// Email:   jlang@site.uottawa.ca
-// ==========================================================================
-// $Log: simple_shape.h,v $
-// Revision 1.1  2014/01/18 16:43:12  jlang
-// Created solution for lab1 in OpenGL 4
-//
-// Revision 1.2  2011/01/24 15:20:44  jlang
-// Added exercises to lab2; fixed minor warnings, VC++8 issues
-//
-// Revision 1.1  2011/01/15 00:23:37  jlang
-// Created lab1 including skeleton
-//
-//
-// ==========================================================================
+
 #ifndef CSI4130_SIMPLE_SHAPE_H_
 #define CSI4130_SIMPLE_SHAPE_H_
 

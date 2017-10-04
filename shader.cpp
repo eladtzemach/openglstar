@@ -1,31 +1,4 @@
-// ==========================================================================
-// $Id: shader.cpp,v 1.1 2014/01/12 14:57:22 jlang Exp $
-// Helper Program for shader loading for CSI 4130 using openGL 2.0
-// ==========================================================================
-// (C)opyright:
-//
-//   Jochen Lang
-//   SITE, University of Ottawa
-//   800 King Edward Ave.
-//   Ottawa, On., K1N 6N5
-//   Canada.
-//   http://www.site.uottawa.ca
-//
-// Creator: jlang (Jochen Lang)
-// Email:   jlang@site.uottawa.ca
-// ==========================================================================
-// $Log: shader.cpp,v $
-// Revision 1.1  2014/01/12 14:57:22  jlang
-// Created GL42 code for lab 0
-//
-// Revision 1.2  2011/03/06 03:46:19  jlang
-// Created lab 7
-//
-// Revision 1.1  2011/01/08 04:36:24  jlang
-// Lab 0 solution
-//
-//
-// ==========================================================================
+
 #include <fstream>
 #include <sstream>
 #include "shader.h"
